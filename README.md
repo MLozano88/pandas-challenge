@@ -9,6 +9,7 @@ ________________________________________________________________________________
 # General Info
 _____________________________________________________________________________________________________
 
+# Heroes of Pymoli:
 This python script uses pandas to read into a csv file and store the information into a data frame.
 The script will run basic calculations to generate a report that breaks down the games's purchasing data into meaningful insights.
 
